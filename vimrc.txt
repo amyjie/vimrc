@@ -1,4 +1,4 @@
-" Eric Hackenberger - 01/31/2016
+" Amy Jie - 01/31/2016
 
 " Pathogen Pacakage Manager
 execute pathogen#infect()
